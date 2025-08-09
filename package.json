@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "name": "django-notes-app",
+  "version": "1.0.0",
+  "description": "This is a simple notes app built with React and Django.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
